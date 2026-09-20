@@ -1,0 +1,8 @@
+[project]
+name = "blackmamba-netops"
+version = "0.1.0"
+description = "Adaptive local-first network control plane"
+requires-python = ">=3.11"
+
+[tool.unittest]
+start-directory = "tests"
