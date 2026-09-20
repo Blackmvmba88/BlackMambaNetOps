@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+data/
+reports/
+captures/
+*.pcap
+*.pcapng
+.DS_Store
